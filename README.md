@@ -30,6 +30,6 @@
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
   <br><br>
   #### 📑 Stats:
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ernesto-b&show_icons=true&locale=en&langs_count=6&layout=compact&theme=radical" alt="ernesto-b" height='152' /></p>
-  <p><a href='https://wakatime.com/@ernesto_b'><img align='right' height='152' src='https://github-readme-stats.vercel.app/api/wakatime?username=ernesto_b&theme=radical&langs_count=6&layout=compact' /><br><br><br></p>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ernesto-b&show_icons=true&locale=en&theme=radical&include_all_commits=true&count_private=true" alt="ernesto-b" height='160' width='auto'/> </p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ernesto-b&show_icons=true&locale=en&langs_count=6&layout=compact&theme=radical" alt="ernesto-b" height='142' /></p>
+  <p><a href='https://wakatime.com/@ernesto_b'><img align='right' height='142' src='https://github-readme-stats.vercel.app/api/wakatime?username=ernesto_b&theme=radical&langs_count=6&layout=compact' /><br><br><br></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ernesto-b&show_icons=true&locale=en&theme=radical&include_all_commits=true&count_private=true" alt="ernesto-b" height='150' width='auto'/> </p>
