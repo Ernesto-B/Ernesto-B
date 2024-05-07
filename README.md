@@ -4,7 +4,7 @@
 <img src="https://media.tenor.com/fy511Gg4ha4AAAAC/fast-typing-anime.gif" alt="side Gif" align="right" width="400" height="auto" />
   
   - 🔭 I’m currently a Software Engineering student in Calgary, Canada
-  - 🌱 Working on how to implement Redis, Firebase, Tailwind and Typescript
+  - 🌱 Working on how to implement Redis, Firebase, and software design
   - 💬 Ask me about [Competitive Programming](https://cpc.cpsc.ucalgary.ca/), [Sculich Racing](https://www.schulichracing.ca/) and Books
   - ⚡ Working towards backend Software Developer
   <br><br>
