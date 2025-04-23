@@ -21,7 +21,7 @@
 <code><img height="40" src="https://skillicons.dev/icons?i=python"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=go"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=cpp"></code>
-<code><img height="40" src="https://skillicons.dev/icons?i=java"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=java"></code> <br />
 <code><img height="40" src="https://skillicons.dev/icons?i=nodejs"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=flask"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=fastapi"></code>
