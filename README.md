@@ -16,19 +16,29 @@
   <br>
   
   #### 👨🏻‍💻 Languages and Tools <br />
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-    <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=js"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=ts"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=python"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=go"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=cpp"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=java"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=nodejs"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=flask"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=fastapi"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=redis"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=nginx"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=elasticsearch"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=rabbitmq"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=graphql"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=docker"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=mongodb"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=mysql"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=postgresql"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=supabase"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=aws"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=jenkins"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=githubactions"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=linux"></code>
   <br><br>
   
   #### 📑 Stats:
