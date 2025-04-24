@@ -1,5 +1,4 @@
-  ### Hello World!  
- <p align="left"> <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">&nbsp;&nbsp;&nbsp; </p>
+<h1 align="center"><span><img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"></span> Hi, I'm Ernesto Barreto</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ernesto-b&label=Profile%20views&color=0e75b6&style=flat" alt="ernesto-b" /> </p>
 <img src="https://media.tenor.com/fy511Gg4ha4AAAAC/fast-typing-anime.gif" alt="side Gif" align="right" width="400" height="auto" />
   
@@ -12,7 +11,6 @@
   #### 📫 How to reach me:
 <a href="mailto:ernestobarretou@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> &nbsp;
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/ernesto-barreto-58a9b0258/)  &nbsp; 
-[<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/ernesto_b.arreto/)  &nbsp; 
   <br>
   
   #### 👨🏻‍💻 Languages and Tools <br />
