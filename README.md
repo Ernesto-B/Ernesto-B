@@ -14,12 +14,10 @@
   <br>
   
   #### 👨🏻‍💻 Languages and Tools <br />
-<code><img height="40" src="https://skillicons.dev/icons?i=js"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=python"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=go"></code>
-<code><img height="40" src="https://skillicons.dev/icons?i=cpp"></code>
-<code><img height="40" src="https://skillicons.dev/icons?i=ruby"></code>
-<code><img height="40" src="https://skillicons.dev/icons?i=java"></code> <br />
+<code><img height="40" src="https://skillicons.dev/icons?i=java"></code> 
+<code><img height="40" src="https://skillicons.dev/icons?i=js"></code> <br />
 <code><img height="40" src="https://skillicons.dev/icons?i=docker"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=kubernetes"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=mongodb"></code>
