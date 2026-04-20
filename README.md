@@ -2,10 +2,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ernesto-b&label=Profile%20views&color=0e75b6&style=flat" alt="ernesto-b" /> </p>
 <img src="https://media.tenor.com/fy511Gg4ha4AAAAC/fast-typing-anime.gif" alt="side Gif" align="right" width="400" height="auto" />
   
-  - Dual degree SWE and Business student 
-  - Working on implementing observability and infra monitoring with open telemetry, loki, tempo, grafana, and prometheus
-  - Ask me about [Competitive Programming](https://cpc.cpsc.ucalgary.ca/), [Sculich Racing](https://www.schulichracing.ca/) and books
-  - Future QA or Dev
+  - SWE student 
+  - Working on implementing observability and infra monitoring EFK and OTEL+prom+grafana
+  - Ask me about [Competitive Programming](https://cpc.cpsc.ucalgary.ca/), [Sculich Racing](https://www.schulichracing.ca/) and books!
+  - Future backend dev or SRE
   <br><br>
   
   #### 📫 How to reach me:
@@ -33,10 +33,3 @@
 <code><img height="40" src="https://skillicons.dev/icons?i=githubactions"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=linux"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=nginx"></code>
-
-  <br><br>
-  
-  #### 📑 Stats:
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ernesto-b&show_icons=true&locale=en&langs_count=6&layout=compact&theme=radical" alt="ernesto-b" height='142' /></p>
-  <p><a href='https://wakatime.com/@ernesto_b'><img align='right' height='142' src='https://github-readme-stats.vercel.app/api/wakatime?username=ernesto_b&theme=radical&langs_count=6&layout=compact' /><br><br><br></p>
-  <!---  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ernesto-b&show_icons=true&locale=en&theme=radical&include_all_commits=true&count_private=true" alt="ernesto-b" height='150' width='auto'/> </p>  --->
