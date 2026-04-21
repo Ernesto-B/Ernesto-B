@@ -1,19 +1,19 @@
 <h1 align="center"><span><img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"></span> Hi, I'm Ernesto Barreto</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ernesto-b&label=Profile%20views&color=0e75b6&style=flat" alt="ernesto-b" /> </p>
 <img src="https://media.tenor.com/fy511Gg4ha4AAAAC/fast-typing-anime.gif" alt="side Gif" align="right" width="400" height="auto" />
-  
+
   - SWE student 
   - Working on implementing observability and infra monitoring EFK and OTEL+prom+grafana
   - Ask me about [Competitive Programming](https://cpc.cpsc.ucalgary.ca/), [Sculich Racing](https://www.schulichracing.ca/) and books!
   - Future backend dev or SRE
   <br><br>
   
-  #### 📫 How to reach me:
+  #### How to reach me:
 <a href="mailto:ernestobarretou@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" width="3.5%"/> &nbsp;
 [<img src="https://skillicons.dev/icons?i=linkedin" width="3.5%"/>](https://www.linkedin.com/in/ernesto-barreto-58a9b0258/)  &nbsp; 
   <br>
   
-  #### 👨🏻‍💻 Languages and Tools <br />
+  #### Languages and Tools: <br />
 <code><img height="40" src="https://skillicons.dev/icons?i=python"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=go"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=java"></code> 
