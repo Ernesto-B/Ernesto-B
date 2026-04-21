@@ -18,6 +18,7 @@
 <code><img height="40" src="https://skillicons.dev/icons?i=go"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=java"></code> 
 <code><img height="40" src="https://skillicons.dev/icons?i=js"></code> <br />
+<code><img height="40" src="https://skillicons.dev/icons?i=aws"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=docker"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=kubernetes"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=mongodb"></code>
@@ -27,7 +28,10 @@
 <code><img height="40" src="https://skillicons.dev/icons?i=rabbitmq"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=kafka"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=graphql"></code>
-<code><img height="40" src="https://skillicons.dev/icons?i=aws"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=jenkins"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=githubactions"></code>
-<code><img height="40" src="https://skillicons.dev/icons?i=linux"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=linux"></code> <br />
+<code><img height="40" src="https://skillicons.dev/icons?i=grafana"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=prometheus"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=terraform"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=bash"></code>
