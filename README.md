@@ -22,7 +22,6 @@
 <code><img height="40" src="https://skillicons.dev/icons?i=kubernetes"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=mongodb"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=postgresql"></code>
-<code><img height="40" src="https://skillicons.dev/icons?i=supabase"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=redis"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=elasticsearch"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=rabbitmq"></code>
@@ -32,4 +31,3 @@
 <code><img height="40" src="https://skillicons.dev/icons?i=jenkins"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=githubactions"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=linux"></code>
-<code><img height="40" src="https://skillicons.dev/icons?i=nginx"></code>
