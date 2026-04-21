@@ -9,8 +9,8 @@
   <br><br>
   
   #### 📫 How to reach me:
-<a href="mailto:ernestobarretou@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> &nbsp;
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/ernesto-barreto-58a9b0258/)  &nbsp; 
+<a href="mailto:ernestobarretou@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" width="3.5%"/> &nbsp;
+[<img src="https://skillicons.dev/icons?i=linkedin" width="3.5%"/>](https://www.linkedin.com/in/ernesto-barreto-58a9b0258/)  &nbsp; 
   <br>
   
   #### 👨🏻‍💻 Languages and Tools <br />
