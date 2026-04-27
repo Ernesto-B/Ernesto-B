@@ -1,4 +1,4 @@
-<h1 align="center"><span><img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"></span> Hi, I'm Ernesto Barreto</h1>
+<h1 align="center"><span><img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"></span> Hi, I'm Ernesto</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ernesto-b&label=Profile%20views&color=0e75b6&style=flat" alt="ernesto-b" /> </p>
 <img src="https://media.tenor.com/fy511Gg4ha4AAAAC/fast-typing-anime.gif" alt="side Gif" align="right" width="400" height="auto" />
 
